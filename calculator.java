@@ -37,5 +37,8 @@ System.out.println(square);
 
 float cube=c.getcube(x);
 System.out.println(cube);
+
+float mod=c.getmod(x,y);
+System.out.println(mod);
 }
 }
